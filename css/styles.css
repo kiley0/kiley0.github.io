@@ -1,3 +1,7 @@
+a {
+  text-decoration: underline;
+}
+
 .w-32 {
   width: 8rem; /* 128px */
 }
